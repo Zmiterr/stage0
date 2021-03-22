@@ -57,6 +57,8 @@ refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
 - Каждый из 3 пунктов [расширенного руководства](https://github.com/ViktoryiaYatskova/code-quality-principles/blob/main/html-and-css-extended.md) соблюден: 
     - +5 за каждое ПОЛНОСТЬЮ выполненное правило
 
+Внимание! Аккуратно выполняйте переименование атрибутов, не пропустив ни единного их вхождения, включая JS файлы.
+
 ## Ключевые навыки
 - Написание чистого, читабельного кода
 
